@@ -1,0 +1,27 @@
+{
+  "name": "is-genfn",
+  "version": "0.1.0",
+  "description": "validate an es6 generator function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ninegrid/is-genfn"
+  },
+  "keywords": [
+    "es6",
+    "harmony",
+    "generators",
+    "validate"
+  ],
+  "author": "Daniel Jackson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ninegrid/is-genfn/issues"
+  },
+  "homepage": "https://github.com/ninegrid/is-genfn",
+  "dependencies": {
+  }
+}
